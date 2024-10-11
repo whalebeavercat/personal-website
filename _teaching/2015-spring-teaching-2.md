@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Undergraduate Teaching Assistant for CPSC 304 (Relational Database)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University Of British Columbia, Department of Computer Science"
+date: 2024-07-01
+location: "Vancouver, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Mentored students in SQL, Oracle, REST API, JavaScript, PHP, and relational database design.
+- Hosted tutorials and office hours to clarify complicated concepts and provide guidance for the students’ group projects.
+- Collaborated with the professor and other TAs to refine the course structure, resulting in clearer material for students and for grading.

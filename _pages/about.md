@@ -14,5 +14,6 @@ I also have experience working in the tech as a full-stack software engineer and
 My current research interests include machine learning theory and applications, including privacy for computer vision, LLMs, multi-model etc. I am also interested in machine unlearning, which is the process to make models forget deleted data. This research is important because it both protects users from privacy attacks, leakage of confidential information, and copyright infringements. Currently, there is policy _Right To Be Forgotten_ in place in many countries.
 
 You can view my resume/CV for more information.
+The pdf format of my cv is [here](https://whalebeavercat.github.io/files/wc_resume.pdf)
 
 Thanks for stopping by!
