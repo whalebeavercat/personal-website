@@ -92,4 +92,4 @@ Personal Projects
 
 All are public in my Github Account: [here](https://github.com/whalebeavercat)
 
-The pdf format of my cv is [here](https://whalebeavercat.github.io/files/wc_resume.pdf)
+The pdf format of my cv is [here](https://whalebeavercat.github.io/files/wc_cv.pdf)
